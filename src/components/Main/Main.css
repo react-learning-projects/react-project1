@@ -1,0 +1,18 @@
+.main {
+    width: 320px;
+    margin: auto;
+    padding: 40px 20px;
+    background-color: #16181b;
+    border: 2px solid #fff;
+    border-bottom: none;
+    border-top: none;
+}
+.main-section {
+    text-align: justify;
+    margin-bottom: 20px;
+}
+.main-section p {
+    font-size: 14px;
+    padding: 8px;
+    padding-right: 0;
+}

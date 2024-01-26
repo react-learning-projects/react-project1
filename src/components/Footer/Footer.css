@@ -1,0 +1,23 @@
+.footer {
+  width: 320px;
+  margin: auto;
+  padding: 10px 40px;
+  border: 2px solid #fff;
+  border-top: none;
+  border-bottom-left-radius: 12px;
+  border-bottom-right-radius: 12px;
+  background-color: #121213;
+}
+.footer-list {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 35px;
+  list-style-type: none;
+}
+.footer-list li:hover {
+    opacity: 0.5;
+}
+.footer-list a {
+  color: #b2acac;
+}
